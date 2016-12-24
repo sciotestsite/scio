@@ -2,3 +2,6 @@ name: Troy High Science Olympiad
 markdown: kramdown
 
 theme: jekyll-theme-architect
+
+title: Troy High Science Olympiad
+description: "The official website of Troy Highs' Science Olympiad team."
