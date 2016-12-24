@@ -1,2 +1,4 @@
 name: Troy High Science Olympiad
 markdown: kramdown
+
+theme: jekyll-theme-architect
